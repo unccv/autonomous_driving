@@ -1,6 +1,6 @@
 # Autonomous Driving
 
-![](video/training_animation_smaller.gif)
+![](videos/training_animation_smaller.gif)
 
 
 ## Programming Challenge
