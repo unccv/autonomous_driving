@@ -25,7 +25,6 @@ __pycache__
 # Larger Files downloaded from elsewhere #
 #########################################
 data/
-videos/
 deprecated/
 
 # Logs and databases #
