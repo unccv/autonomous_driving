@@ -1,6 +1,6 @@
 # Autonomous Driving Challenge
 
-![](../videos/images_and_angles.gif.gif)
+![](../videos/images_and_angles.gif)
 
 
 ### Instructions
