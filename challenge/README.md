@@ -49,13 +49,13 @@ For this challenge you are only permitted to use numpy, opencv, tdqm, time, and 
 
 | RMSE (degrees)   | Points (10 max)  | 
 | ------------- | ------------- | 
-| RMSE <= 10     | 10  | 
-| 10 < RMSE <= 12.5 | 9  |  
-| 12.5 < RMSE <= 15 | 8  |   
-| 15 < RMSE <= 17.5 | 7  |   
-| 17.5 < RMSE <= 20 | 6  |   
-| 20 < RMSE <= 25 | 5  |  
-| RMSE > 25, or code fails to run | 4  |  
+| RMSE <= 12.5     | 10  | 
+| 12.5 < RMSE <= 15 | 9  |  
+| 15 < RMSE <= 20 | 8  |   
+| 20 < RMSE <= 25 | 7  |   
+| 25 < RMSE <= 30 | 6  |   
+| 30 < RMSE <= 40 | 5  |  
+| RMSE > 40, or code fails to run | 4  |  
 
 
 
