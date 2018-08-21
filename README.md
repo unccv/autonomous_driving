@@ -2,17 +2,7 @@
 
 ![](videos/training_animation_smaller.gif)
 
-
-## Programming Challenge
-
-### Instructions
-
-### The Data
-
-### Grading 
-
-#### A quick note on difficulty
-
+Autonomous driving is one of the machine learning challenges of our time. There are tons of interesting applications of computer vision to autononmous driving, we'll explore a few of them in this module. 
 
 ## Setup 
 
@@ -54,8 +44,5 @@ Recommend jupyter them for **viewing** these notebook (type into terminal before
 ~~~
 jt -t grade3 -cellw=90% -fs=14 -tfs=14 -ofs=14 -dfs=14
 ~~~
-
-### Downloading Data
-
 
 
