@@ -15,8 +15,8 @@ def train(path_to_images, csv_file):
     First method you need to complete. 
     Args: 
     path_to_images = path to jpg image files
-    csv_file = path and filename to csv file containing frame numbers and sttering angles. 
-    Return: 
+    csv_file = path and filename to csv file containing frame numbers and steering angles. 
+    Returns: 
     NN = Trained Neural Network object 
     '''
 
