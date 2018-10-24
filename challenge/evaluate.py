@@ -33,9 +33,6 @@ def evaluate(student_file = 'sample_student',
         print("Training your network, start time: %s" % time.strftime("%H:%M:%S"))
         NN = train(path_to_images = path_to_training_images,
                    csv_file = training_csv_file)
-
-    except ValueError as ex:
-        pass
         
     finally:
         signal.alarm(0)
