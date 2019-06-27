@@ -2,7 +2,16 @@
 
 ![](videos/training_animation_smaller.gif)
 
-Autonomous driving is one of the machine learning challenges of our time. There are tons of interesting applications of computer vision to autononmous driving, we'll explore a few of them in this module. 
+Autonomous driving is one of the great technical challenges of our time. There are tons of interesting applications of computer vision to autononmous driving, we'll explore a few of them in this module. 
+
+## Lectures
+| Order |   Notebook/Slides  | Required Viewing/Reading Before | Additional Viewing/Reading | Notes |
+| ----- | ------------------ | ----------------------- | ------------------ | ----- |
+| 1 | [How to Drive a Car with a Camera [Part 1]](https://github.com/unccv/autonomous_driving/blob/master/notebooks/How%20to%20Drive%20a%20Car%20with%20a%20Camera%20%5BPart%201%5D.ipynb) | [SDCs Part 1](https://www.youtube.com/watch?v=cExJbbwOfcw&t=26s), [VITS Paper](https://sites.cs.ucsb.edu/~mturk/Papers/ALV.pdf) | - |  |
+| 2 | [How to Drive a Car with a Camera [Part 2]](https://github.com/unccv/autonomous_driving/blob/master/notebooks/How%20to%20Drive%20a%20Car%20with%20a%20Camera%20%5BPart%202%5D.ipynb) | [SDCs Part 2](https://www.youtube.com/watch?v=H0igiP6Hg1k), [ALVINN Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.830.2188&rep=rep1&type=pdf) | - |  |
+
+## Note About Tensorflow
+We'll be using tensorflow to build a neural network in one lecture, but tensorflow (or other deep learning libraries) are not permitted in your programming challenge. 
 
 ## Setup 
 
@@ -11,8 +20,8 @@ The Python 3 [Anaconda Distribution](https://www.anaconda.com/download) is the e
 (Optional) You may want to create a virtual environment for this repository: 
 
 ~~~
-conda create -n cv python=3 
-source activate cv
+conda create -n autonomous_driving python=3 
+source activate autonomous_driving
 ~~~
 
 You'll need to install the jupyter notebook to run the notebooks:
