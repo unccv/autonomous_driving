@@ -6,7 +6,7 @@ Autonomous driving is one of the great technical challenges of our time. There a
 
 ## Lectures
 | Order |   Notebook/Slides  | Required Viewing/Reading | | Notes |
-| ----- | ------------------ | ----------------------- | ------------------ | ----- |
+| ----- | ------------------ | ----------------------- | ------------------ |
 | 1 | [How to Drive a Car with a Camera [Part 1]](https://github.com/unccv/autonomous_driving/blob/master/notebooks/How%20to%20Drive%20a%20Car%20with%20a%20Camera%20%5BPart%201%5D.ipynb) | [SDCs Part 1](https://www.youtube.com/watch?v=cExJbbwOfcw&t=26s), [VITS Paper](https://sites.cs.ucsb.edu/~mturk/Papers/ALV.pdf) |  |
 | 2 | [How to Drive a Car with a Camera [Part 2]](https://github.com/unccv/autonomous_driving/blob/master/notebooks/How%20to%20Drive%20a%20Car%20with%20a%20Camera%20%5BPart%202%5D.ipynb) | [SDCs Part 2](https://www.youtube.com/watch?v=H0igiP6Hg1k), [ALVINN Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.830.2188&rep=rep1&type=pdf) | The ALVINN implementation in this notebook should be helpful on your programming challenge!|
 
